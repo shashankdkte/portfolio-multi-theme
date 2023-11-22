@@ -1,9 +1,9 @@
 import './faqs.css'
 
-const FAQs = () => {
+const FAQSection = () => {
   return (
     <section id="faqs"><h2>FAQs</h2></section>
   )
 }
 
-export default FAQs
+export default FAQSection

@@ -4,10 +4,12 @@ import About from './sections/about/About';
 import Services from './sections/services/Services';
 import Portfolio from './sections/portfolio/Portfolio';
 import Testimonials from './sections/testimonials/Testimonials';
-import FAQs from './sections/faqs/FAQs';
+
 import Contact from './sections/contact/Contact';
-import Footer from './sections/footer/Footer';
+
 import FloatingNav from './sections/floating-nav/FloatingNav';
+import FAQSection from './sections/faqs/FAQSection';
+import FooterSection from './sections/footer/FooterSection';
 
 const App = () => {
   return (
@@ -18,9 +20,9 @@ const App = () => {
         <Services/>
         <Portfolio/>
         <Testimonials/>
-        <FAQs/>
+       <FAQSection />
         <Contact/>
-        <Footer/>
+        <FooterSection />
         <FloatingNav/>
     </main>
   )
