@@ -21,14 +21,15 @@ const Portfolio = () => {
   }
   return (
     <section id="portfolio">
-      <h2>Recent Projects</h2>
+      {/* <h2>Recent Projects</h2>
       <p>
       Check out some of the projects I recently worked on for my clients. Use the buttons to toggle the different categories.
       </p>
       <div className="container profile__container">
         <ProjectCategories categories={uniqueCategories} onFilterProjects={filterProjectsHandler}/>
         <Projects projects={projects}/>
-      </div>
+      </div> */}
+      <iframe src="https://shashankdkte.github.io/collections/index.html" height="800" width="1600" title="Iframe Example" style={{overflowX:"hidden"}}></iframe>
     </section>
   )
 }

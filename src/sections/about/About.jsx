@@ -29,11 +29,16 @@ const About = () => {
                     }
                 </div>
                 <p>
-                Building projects my clients love have always been my passion. Being in the web development industry for over 3 years and serving more than 70 happy clients worldwide, I'm always motivated to do more!
+                Results-driven and versatile developer with a proven track record in leveraging the .NET stack, Node and FrontEnd technologies, 
+specializing in React and Angular
                 </p>
                 <p>
-                Hi, my name is Hajia Bintu from Accra, Ghana. I'm a full-stack web developer with a Bachelors degree in Computer Science. My top priority is to get your business online the right way, giving you industry-standard design and all the functionality you need to operate smoothly online. Get in touch today with the details of your project let's get started! Check out my resume below!
-                </p>
+                      Hi, my name is Shashank  Dhakate from Mumbai, India. I'm a full-stack web developer with a Bachelors degree in Computer Science. My top priority is to contribute in building large scale applications which cater to each and every client as well as user requirements. Streamline development for myself as well as collaborators.
+                      Build an indepth knowledge in multiple phases of development.
+                  </p>
+                  <p>
+                      I am fascinated in development of cloud applications as well as underlying technologies supported. I would like pursue my Master in Cloud Computing or Cybersecurity, since I have developed keen sense of curosity towards following fields.
+                  </p>
                 <a href={CV} download className='btn primary'>Download CV <HiDownload/></a>
             </div>
         </div>

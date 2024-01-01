@@ -14,9 +14,9 @@ import Testimonial from "../../components/testimonial/Testimonial";
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h2>What My Client Say</h2>
+      <h2>Certifications</h2>
       <p>
-        These are unbiased testimonials from some of my clients
+        These are few certifications I have currently completed 
       </p>
       <div className="container">
           <Swiper slidesPerView={1}

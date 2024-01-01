@@ -13,55 +13,55 @@ const data = [
         id: 1,
         category: 'uiux',
         image: Image1,
-        title: "Project Title One (UIUX)",
+        title: "Clipboard",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/clipboard',
+        github: 'https://github.com/shashankdkte/basic-tailwind/tree/main/clipboard'
     },
     {
         id: 2,
         category: 'frontend',
         image: Image2,
-        title: "Project Title Two (Frontend)",
+        title: "LoopStudios",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/loopstudios',
+        github: 'https://github.com/shashankdkte/basic-tailwind/tree/main/loopstudios'
     },
     {
         id: 3,
         category: 'frontend',
         image: Image3,
-        title: "Project Title Three (Frontend)",
+        title: "Shortly",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/',
+        github: 'https://github.com/shashankdkte/basic-tailwind'
     },
     {
         id: 4,
         category: 'uiux',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "Fylo",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/fylo',
+        github: 'https://github.com/shashankdkte/basic-tailwind/tree/main/fylo'
     },
     {
         id: 5,
         category: 'uiux',
         image: Image5,
-        title: "Project Title Five (UIUX)",
+        title: "Bookmark",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/bookmark',
+        github: 'https://github.com/shashankdkte/basic-tailwind/tree/main/bookmark'
     },
     {
         id: 6,
         category: 'frontend',
         image: Image6,
-        title: "Project Title Six (Frontend)",
+        title: "Testimonial",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://shashankdkte.github.io/basic-tailwind/testimonial',
+        github: 'https://github.com/shashankdkte/basic-tailwind/tree/main/testimonial-grid'
     },
     {
         id: 7,

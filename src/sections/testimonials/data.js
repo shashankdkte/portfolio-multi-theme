@@ -5,58 +5,79 @@ import Avatar4 from '../../assets/avatar4.jpg'
 import Avatar5 from '../../assets/avatar5.jpg'
 import Avatar6 from '../../assets/avatar6.jpg'
 import Avatar7 from '../../assets/avatar7.jpg'
+import Meta from "../../assets/meta.jpg"
+import Hackerank from "../../assets/hackerank.jpg"
+import Udemy from "../../assets/udemy.jpg"
+import FreeCodeCamp  from "../../assets/freecod.jpg"
+import AWS  from "../../assets/aws.png"
+
+
 
 
 const data = [
         {
         id: 1,
-        quote: "It's truly amazing how you did exactly what I want with the little information I gave. You'll be my go-to developer from today. Highly recommend!",
-        avatar: Avatar1,
-        name: 'Nana Ama McBrown',
-        profession: 'Actress'
-        },
-        {
+        quote:"Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more",
+         avatar: Meta,
+        name: 'Meta Back-End Developer',
+        profession: 'Meta'
+    },
+      {
         id: 2,
-        quote: "Good job, Hajia! Right on time! I really like how the project turned out, and my customers like it as well. It was fun collaborating with you.",
-        avatar: Avatar2,
-        name: 'Ernest Achiever',
-        profession: 'Web Developer'
-        },
+          quote: "Learn how to gather technical requirements, assess client capabilities and analyze findings to provide appropriate cloud solution recommendations",
+          avatar: AWS,
+        name: 'AWS Cloud Technology Consultant',
+        profession: 'AWS'
+    },
         {
         id: 3,
-        quote: "Impressive work, buddy. Highly recommend!",
-        avatar: Avatar3,
-        name: 'Daniel Vinyo',
-        profession: 'Graphic Designer'
-        },
-        {
+            quote: "Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control,  React in relation to Javascript libraries and frameworks.",
+            avatar: Meta,
+        name: 'Meta Front-End Developer ',
+        profession: 'Meta'
+    },
+          {
         id: 4,
-        quote: "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
-        avatar: Avatar4,
-        name: 'Diana Ayi',
-        profession: 'Singer'
+              quote: "Understood Data Definition, Manipulation ,Control Languages along Transactions , Normalizations",
+              avatar: Hackerank,
+        name: 'SQL Developer',
+        profession: 'Hackerank'
         },
         {
         id: 5,
-        quote: "I like how the app turned out. You are incredible, Hajia.",
-        avatar: Avatar5,
-        name: 'Vivian Mensah',
-        profession: 'Street Photographer'
-        },
+              quote: "Understood JSX Syntax , Component Local as well as component wide State. Using Redux Library for state management.",
+              avatar: Udemy,
+        name: 'React Developer',
+        profession: 'Hackerank'
+    },
+         {
+        id: 9,
+        quote:"Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more",
+         avatar: Meta,
+        name: 'Meta Back-End Developer',
+        profession: 'Meta'
+    },
         {
+        id: 11,
+            quote: "Understanding DOM manipulations,Event Loop and language constructs for ES6+",
+            avatar: FreeCodeCamp,
+        name: 'Javascript',
+        profession: 'FreeCodeCamp'
+    },
+      {
         id: 6,
-        quote: "Best developer in the world!",
-        avatar: Avatar6,
-        name: 'Hajia Bintu',
-        profession: 'Brand Influencer'
-        },
+          quote: "Learn how to gather technical requirements, assess client capabilities and analyze findings to provide appropriate cloud solution recommendations",
+          avatar: AWS,
+        name: 'AWS Cloud Technology Consultant',
+        profession: 'AWS'
+    },
         {
         id: 7,
-        quote: "Keep doing great stuff, dear! Nicely executed!",
-        avatar: Avatar7,
-        name: 'Nicki Nyarko',
-        profession: 'Makeup Artist'
-        }
+            quote: "Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control,  React in relation to Javascript libraries and frameworks.",
+            avatar: Meta,
+        name: 'Meta Front-End Developer ',
+        profession: 'Meta'
+    },
     ]
 
 
